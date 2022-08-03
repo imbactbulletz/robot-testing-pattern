@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Robot Pattern</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment_label">Login screen</string>
+    <string name="dashboard_fragment_label">Dashboard Screen</string>
+
+
+    <string name="login">Log in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="empty_username">Username cannot be empty.</string>
+    <string name="empty_password">Password cannot be empty.</string>
+    <string name="empty_credentials">Empty username and password.</string>
+    <string name="invalid_credentials">Invalid username or password.</string>
+    <string name="counter_value_template">Counter value: %1$d</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="decrement_error">Cannot decrement below zero.</string>
+</resources>
